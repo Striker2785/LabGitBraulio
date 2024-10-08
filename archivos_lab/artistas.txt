@@ -1,6 +1,5 @@
 Daft Punk
-<<<<<<< HEAD
+
 Cuco
-=======
+
 Yaosobi
->>>>>>> d51e0e6f9152150b97d11736ad30bd67931a5520
